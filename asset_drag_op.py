@@ -37,6 +37,7 @@ from . import (
     reports,
     ui,
     ui_bgl,
+    ui_panels,
     utils,
 )
 from .bl_ui_widgets.bl_ui_button import BL_UI_Button
